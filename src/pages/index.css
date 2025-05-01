@@ -1,0 +1,18 @@
+.eshop {
+  text-align: center;
+  font-size: 5rem;
+  color: rgb(156, 111, 128);
+}
+
+.products {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  gap: 20px;
+}
+
+@media(min-width: 1500px) {
+  .products{
+    margin: 0 10%;
+  }
+}

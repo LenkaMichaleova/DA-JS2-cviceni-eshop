@@ -1,0 +1,17 @@
+{
+  "name": "jsx-starter-kit",
+  "version": "1.0.0",
+  "description": "Starter kit for JSX JavaScript project",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@czechitas/render": "^0.3.1"
+  },
+  "devDependencies": {
+    "vite": "^6.2.6"
+  }
+}
